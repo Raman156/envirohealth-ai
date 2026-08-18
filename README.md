@@ -1,0 +1,2 @@
+# envirohealth-ai
+EnviroHealth AI is an AI-powered environmental health risk prediction platform that combines environmental data, weather conditions, air/water quality, and anonymized community health reports to identify potential local health risks. It provides interactive heatmaps, health alerts, historical trends, and preventive recommendations to help users understand how changes in their environment may impact public health
